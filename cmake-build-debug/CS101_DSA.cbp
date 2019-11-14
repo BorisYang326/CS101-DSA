@@ -83,6 +83,9 @@
 		<Unit filename="/Users/borisss_yang/CS101-DSA/hw2/hw2-1.cpp">
 			<Option target="CS101_DSA"/>
 		</Unit>
+		<Unit filename="/Users/borisss_yang/CS101-DSA/hw3">
+			<Option target="CS101_DSA"/>
+		</Unit>
 		<Unit filename="/Users/borisss_yang/CS101-DSA/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

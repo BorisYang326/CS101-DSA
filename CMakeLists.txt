@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(.)
 
 add_executable(CS101_DSA
-        hw2/hw2-1.cpp)
+        hw2/hw2-1.cpp hw3)
